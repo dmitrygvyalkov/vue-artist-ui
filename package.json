@@ -1,0 +1,23 @@
+{
+  "name": "vue-artist-ui",
+  "version": "0.0.1",
+  "description": "Vue components collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmitrygvyalkov/vue-artist-ui.git"
+  },
+  "keywords": [
+    "vue",
+    "component"
+  ],
+  "author": "Dmitry G Vyalkov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmitrygvyalkov/vue-artist-ui/issues"
+  },
+  "homepage": "https://github.com/dmitrygvyalkov/vue-artist-ui#readme"
+}
