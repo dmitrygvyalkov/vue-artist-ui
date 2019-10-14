@@ -1,6 +1,6 @@
 {
   "name": "vue-artist-ui",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Vue components collection",
   "main": "src/index.js",
   "scripts": {
